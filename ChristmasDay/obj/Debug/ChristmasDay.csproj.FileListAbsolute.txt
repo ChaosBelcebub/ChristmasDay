@@ -1,0 +1,9 @@
+C:\Users\Michael\Documents\Projekte\ChristmasDay\ChristmasDay\bin\Debug\ChristmasDay.exe.config
+C:\Users\Michael\Documents\Projekte\ChristmasDay\ChristmasDay\bin\Debug\ChristmasDay.exe
+C:\Users\Michael\Documents\Projekte\ChristmasDay\ChristmasDay\bin\Debug\ChristmasDay.pdb
+C:\Users\Michael\Documents\Projekte\ChristmasDay\ChristmasDay\obj\Debug\ChristmasDay.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Projekte\ChristmasDay\ChristmasDay\obj\Debug\ChristmasDay.Form1.resources
+C:\Users\Michael\Documents\Projekte\ChristmasDay\ChristmasDay\obj\Debug\ChristmasDay.Properties.Resources.resources
+C:\Users\Michael\Documents\Projekte\ChristmasDay\ChristmasDay\obj\Debug\ChristmasDay.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projekte\ChristmasDay\ChristmasDay\obj\Debug\ChristmasDay.exe
+C:\Users\Michael\Documents\Projekte\ChristmasDay\ChristmasDay\obj\Debug\ChristmasDay.pdb
