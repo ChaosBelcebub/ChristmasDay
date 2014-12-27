@@ -6,3 +6,4 @@ C:\Users\Michael\Documents\Projekte\ChristmasDay\ChristmasDay\obj\Release\Christ
 C:\Users\Michael\Documents\Projekte\ChristmasDay\ChristmasDay\obj\Release\ChristmasDay.csproj.GenerateResource.Cache
 C:\Users\Michael\Documents\Projekte\ChristmasDay\ChristmasDay\obj\Release\ChristmasDay.exe
 C:\Users\Michael\Documents\Projekte\ChristmasDay\ChristmasDay\obj\Release\ChristmasDay.pdb
+C:\Users\Michael\Documents\Projekte\ChristmasDay\ChristmasDay\obj\Release\ChristmasDay.csprojResolveAssemblyReference.cache
